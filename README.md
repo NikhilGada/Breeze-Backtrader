@@ -33,18 +33,12 @@ cd breezevenv
 .\Scripts\activate
 ```
 
-<h4 id="clientinstall">Installing the client</h4>
+<h4 id="clientinstall">Installing the required library</h4>
 
 You can install the latest release via pip
 
 ```
-pip install breeze-connect
-```
-```
-pip install backtrader
-```
-```
-pip install matplotlib
+pip install -r requirements.txt
 ```
 
 <h4 id="apiusage"> API Usage</h4>
