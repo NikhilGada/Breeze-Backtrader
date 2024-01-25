@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Backtrader with Breeze API Integration</title>
+    <h1>Backtrader with Breeze API Integration</h1>
 </head>
 <body>
 
-<h1>Backtrader with Breeze API Integration</h1>
+
 
 <p>Integrate Backtrader with the Breeze API for live stock data and strategy visualization.</p>
 
@@ -28,6 +28,10 @@ virtualenv -p python breezevenv
 And then, You can activate virtual environment via source
 ```
 cd breezevenv
+
+```
+
+```
 .\Scripts\activate
 ```
 
