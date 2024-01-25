@@ -1,0 +1,4 @@
+# Add specific versions if needed
+breeze-connect
+backtrader
+matplotlib
