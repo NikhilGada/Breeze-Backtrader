@@ -25,12 +25,10 @@ You should create breeze virtual environment via virtualenv
 virtualenv -p python breezevenv
 ```
 
-And then, You can activate virtual environment via source
+And then, command to activate virtual environment
 ```
 cd breezevenv
-
 ```
-
 ```
 .\Scripts\activate
 ```
@@ -42,11 +40,9 @@ You can install the latest release via pip
 ```
 pip install breeze-connect
 ```
-
 ```
 pip install backtrader
 ```
-
 ```
 pip install matplotlib
 ```
